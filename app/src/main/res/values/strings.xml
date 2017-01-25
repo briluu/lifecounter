@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Life Counter</string>
+    <string name="plus1">+</string>
+    <string name="minus1">-</string>
+    <string name="plus5">+5</string>
+    <string name="minus5">-5</string>
+
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="player3">Player 3</string>
+    <string name="player4">Player 4</string>
+
+</resources>
